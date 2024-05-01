@@ -6,7 +6,7 @@ A very large-scale project consisting of an e-commerce store service provider fo
 - Nest Js
 - Fastify Adapter
 - Mongo Db
-- Clustering base on the number Of CPU's (performance)
+- Clustering based on the number Of CPU's (performance)
 
 ### Nest Js Used Technics:
 - Guards
