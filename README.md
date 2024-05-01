@@ -23,17 +23,17 @@ A very large-scale project consisting of an e-commerce store service provider fo
 - Rate limiting
 - Redis Server
 
-### DNS Managment Technics:
+### DNS Management Technics:
 - CNAME Routing.
 - Name Servers Point.
 - DOMAIN Routing.
 - Letsencrypt SSL Certificate Generate.
 
-### Server Managment Technics:
+### Server Management Technics:
 - Linux Server.
 - Apache Server2.
 - Nginx Proxy.
-- Hestia Control Panle.
+- Hestia Control Panel.
 
 ## External Api Integrations:
 - Facebook Conversion API (Send Purchase Events).
