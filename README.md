@@ -35,7 +35,7 @@ A very large-scale project consisting of an e-commerce store service provider fo
 - Nginx Proxy.
 - Hestia Control Panle.
 
-##External Api Integrations:
+## External Api Integrations:
 - Facebook Conversion API (Send Purchase Events).
 - Tiktok Events API (Send Purchase Events).
 - Google Sheets API (Send Orders Details).
